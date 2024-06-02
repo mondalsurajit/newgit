@@ -1,1 +1,1 @@
- # Delet and Pop fetures in Python
+ # Delet and Pop features in Python
