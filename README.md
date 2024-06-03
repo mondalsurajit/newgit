@@ -1,1 +1,1 @@
- # Delet and Pop features in Python
+ # Delet and Pop features in Javascript
