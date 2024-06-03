@@ -4,5 +4,5 @@ del st1[0] ## delet first name
 print(st1)
  
   ## and
-
-print("Welcome to the new world")
+# New python
+print("Ram is a good boy")
