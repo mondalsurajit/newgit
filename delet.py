@@ -3,3 +3,6 @@ print(st1)
 del st1[0] ## delet first name
 print(st1)
  
+  ## and
+
+print("Welcome to the new world")
