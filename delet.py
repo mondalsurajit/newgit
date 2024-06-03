@@ -13,4 +13,4 @@ x=("Ajoy","Sujay","Rama")
 print(x)
  # or
 
-print("Hello world")
+print("Hello world",x,"in python")
