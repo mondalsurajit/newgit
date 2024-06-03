@@ -7,6 +7,7 @@ print(st1)
 # New python
 print("Ram is a good boy")
 
+
  #tuple
 x=("Ajoy","Sujay","Rama")
 print(x)
